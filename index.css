@@ -1,0 +1,31 @@
+.background {
+  background-image: radial-gradient(circle at top left, #2be9b5, #1e3e50);
+}
+
+.form-background {
+  height: 100vh;
+}
+
+.form-login {
+  padding: 20px;
+  border: whitesmoke solid;
+  border-radius: 10px;
+  margin: auto;
+}
+
+div > label,
+small {
+  color: whitesmoke;
+}
+
+.button-transparent {
+  background-color: Transparent !important;
+  border-color: whitesmoke !important;
+}
+
+h1 {
+  padding: 5% !important;
+  font-family: Impact, fantasy;
+  font-weight: 800;
+  text-align: center;
+}
